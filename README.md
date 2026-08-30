@@ -1,6 +1,6 @@
 # Vamshi Krishna Thatipamula
 
-### Data Professional | Data Science | Machine Learning | MLOps | Generative AI
+### Data Professional | Data Analytics | Machine Learning | MLOps | Generative AI
 
 ## About Me
 
@@ -22,7 +22,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 
 **MLOps:** MLflow, DagsHub, FastAPI, CI/CD, Model Monitoring, Drift Detection
 
-**Data Engineering & Cloud:** AWS S3, AWS Lambda, AWS Glue, Amazon Athena, ETL
+**Data Engineering & Cloud:** AWS S3, AWS Lambda, Amazon Athena, ETL
 
 **Data Visualization & BI:** Streamlit, Plotly, Tableau, Matplotlib, Seaborn
 
@@ -74,7 +74,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 - **[Expense Management System](https://github.com/vamshi-thatipamula/Python_Expense_Tracking_System)**  
   Full-stack expense management application built with Python, FastAPI, Streamlit, MySQL, and data visualization.
 
-  ## Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vk-thatipamula/)
 - [GitHub](https://github.com/vamshi-thatipamula)
