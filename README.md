@@ -126,9 +126,9 @@ Git, GitHub
 </tr>
 </table>
 
-<h2>Projects</h2>
+<h2>📂 Projects</h2>
 
-<h3>🤖 Machine Learning</h3>
+<h3>Machine Learning</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Credit_Risk_Modelling_System">Credit Risk Modelling System</a></strong><br>
@@ -141,7 +141,7 @@ Machine learning regression system for predicting healthcare insurance premiums 
 </p>
 
 
-<h3>⚙️ MLOps</h3>
+<h3>MLOps</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/End_to_End_Credit_Risk_MLOps_System">End-to-End Credit Risk MLOps System</a></strong><br>
@@ -149,7 +149,7 @@ End-to-end MLOps solution covering experiment tracking, model serving, deploymen
 </p>
 
 
-<h3>🧠 Generative AI</h3>
+<h3>Generative AI</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Gen_AI_Customer_Feedback_Analyzer">Gen AI Customer Feedback Analyzer</a></strong><br>
@@ -157,7 +157,7 @@ Generative AI application using Google Gemini to analyze customer feedback, clas
 </p>
 
 
-<h3>🏗️ Data Engineering</h3>
+<h3>Data Engineering</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/CarePlus_System_Support_Ticket_ETL">CarePlus System Support Ticket ETL</a></strong><br>
@@ -165,7 +165,7 @@ End-to-end ETL pipeline integrating support tickets and application logs using A
 </p>
 
 
-<h3>📊 Data Analytics & Visualization</h3>
+<h3>Data Analytics & Visualization</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/AtliQo_Bank_Credit_Card_Strategy_AB_Testing">AtliQo Bank Credit Card Strategy: Target Market Analysis & A/B Testing</a></strong><br>
@@ -188,7 +188,7 @@ Exploratory data analysis of the hospitality domain to identify revenue leakage,
 </p>
 
 
-<h3>💻 Python Applications</h3>
+<h3>Python Applications</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Python_Expense_Tracking_System">Expense Management System</a></strong><br>
