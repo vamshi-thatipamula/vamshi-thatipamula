@@ -70,7 +70,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 
 <br><br>
 <strong>Core Skills:</strong><br>
-Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
+Feature Engineering · Statistical Analysis · Predictive Modelling · Model Evaluation · A/B Testing
 
 </td>
 
@@ -112,8 +112,6 @@ Prompt Engineering
 <strong>Tools & Technologies:</strong><br><br>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
-
-AWS S3 · AWS Lambda · Amazon Athena
 
 <br><br>
 <strong>Core Skills:</strong><br>
