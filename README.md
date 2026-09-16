@@ -26,7 +26,51 @@ My projects include Healthcare Premium Prediction, Credit Risk Modelling, Credit
 I enjoy building solutions that connect data, machine learning, and AI with real-world business problems—from exploratory analysis and statistical experimentation to predictive modelling, end-to-end MLOps solutions, and AI-powered applications.
 </p>
 
+<h2>🛠️ Technical Skills & Tools</h2>
+
+<table>
 <tr>
+<td width="50%" valign="top">
+
+<h3>Programming & Data Analysis</h3>
+
+<strong>Tools & Technologies:</strong><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Data Visualization & BI</h3>
+
+<strong>Tools & Technologies:</strong><br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Machine Learning & Statistics</h3>
+
+<strong>Tools & Technologies:</strong><br>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white">
+
+<br>
+<strong>Core Skills:</strong><br>
+Feature Engineering · Statistical Analysis · Predictive Modelling · Model Evaluation · A/B Testing
+
+</td>
+
 <td width="50%" valign="top">
 
 <h3>MLOps</h3>
@@ -38,6 +82,21 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 <br>
 <strong>Core Skills:</strong><br>
 DagsHub · CI/CD · Model Monitoring · Drift Detection
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Generative AI</h3>
+
+<strong>Tools & Technologies:</strong><br>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white">
+
+<br>
+<strong>Core Skills:</strong><br>
+Prompt Engineering
 
 </td>
 
@@ -54,6 +113,29 @@ AWS S3 · AWS Lambda · Amazon Athena · ETL
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Databases</h3>
+
+<strong>Tools & Technologies:</strong><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Development & Version Control</h3>
+
+<strong>Tools & Technologies:</strong><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+
+</td>
+</tr>
+</table>
 
 ## Projects
 
