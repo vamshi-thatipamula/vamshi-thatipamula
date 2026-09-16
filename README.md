@@ -26,76 +26,96 @@ My projects include Healthcare Premium Prediction, Credit Risk Modelling, Credit
 I enjoy building solutions that connect data, machine learning, and AI with real-world business problems—from exploratory analysis and statistical experimentation to predictive modelling, end-to-end MLOps solutions, and AI-powered applications.
 </p>
 
-## 🛠️ Technical Skills
+<h2>🛠️ Technical Skills</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Programming & Data Analysis
 
-Technologies:
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-Skills: Python · SQL · Pandas · NumPy
+</td>
+<td width="50%" valign="top">
 
 ### Machine Learning & Statistics
 
-Technologies:
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white">
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white)
+Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
 
-Skills: Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Generative AI
 
-Technologies:
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white">
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+Prompt Engineering
 
-Skills: Prompt Engineering
+</td>
+<td width="50%" valign="top">
 
 ### MLOps
 
-Technologies: 
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+DagsHub · CI/CD · Model Monitoring · Drift Detection
 
-Skills: DagsHub · CI/CD · Model Monitoring · Drift Detection
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Data Engineering & Cloud
 
-Technologies:
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+AWS S3 · AWS Lambda · Amazon Athena · ETL
 
-Skills: AWS S3 · AWS Lambda · Amazon Athena · ETL
+</td>
+<td width="50%" valign="top">
 
 ### Data Visualization & BI
 
-Technologies:
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white">
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Databases
 
-Technologies:
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
 ### Development & Version Control
 
-Teechnologies:
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
 
 
 ## Projects
