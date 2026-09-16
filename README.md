@@ -32,29 +32,19 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 <tr>
 <td width="50%" valign="top">
 
-<h3>🐍 Programming & Data Analysis</h3>
+<h3><font color="#2F80ED">Programming & Data Analysis</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
 Python, SQL, Pandas, NumPy
-
-<br>
-
-<strong>Core Skills:</strong><br>
-—
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📊 Data Visualization & BI</h3>
+<h3><font color="#27AE60">Data Visualization & BI</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
 Streamlit, Plotly, Tableau, Matplotlib, Seaborn
-
-<br>
-
-<strong>Core Skills:</strong><br>
-—
 
 </td>
 </tr>
@@ -62,29 +52,27 @@ Streamlit, Plotly, Tableau, Matplotlib, Seaborn
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 Machine Learning & Statistics</h3>
+<h3><font color="#8E44AD">Machine Learning & Statistics</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
 Scikit-learn, Statsmodels
 
 <br>
-
 <strong>Core Skills:</strong><br>
-Feature Engineering, Statistical Analysis, A/B Testing, Predictive Modelling, Model Evaluation
+Feature Engineering, Statistical Analysis, Predictive Modelling, Model Evaluation, A/B Testing
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>⚙️ MLOps</h3>
+<h3><font color="#E67E22">MLOps</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
-MLflow, FastAPI
+MLflow, DagsHub, FastAPI
 
 <br>
-
 <strong>Core Skills:</strong><br>
-DagsHub, CI/CD, Model Monitoring, Drift Detection
+CI/CD, Model Monitoring, Drift Detection
 
 </td>
 </tr>
@@ -92,13 +80,12 @@ DagsHub, CI/CD, Model Monitoring, Drift Detection
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 Generative AI</h3>
+<h3><font color="#E84393">Generative AI</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
 Google Gemini
 
 <br>
-
 <strong>Core Skills:</strong><br>
 Prompt Engineering
 
@@ -106,15 +93,14 @@ Prompt Engineering
 
 <td width="50%" valign="top">
 
-<h3>☁️ Data Engineering & Cloud</h3>
+<h3><font color="#16A085">Data Engineering & Cloud</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
-AWS
+AWS S3, AWS Lambda, Amazon Athena
 
 <br>
-
 <strong>Core Skills:</strong><br>
-AWS S3, AWS Lambda, Amazon Athena, ETL
+ETL
 
 </td>
 </tr>
@@ -122,34 +108,23 @@ AWS S3, AWS Lambda, Amazon Athena, ETL
 <tr>
 <td width="50%" valign="top">
 
-<h3>🗄️ Databases</h3>
+<h3><font color="#D35400">Databases</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
 MySQL, SQLite
-
-<br>
-
-<strong>Core Skills:</strong><br>
-—
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🔧 Development & Version Control</h3>
+<h3><font color="#34495E">Development & Version Control</font></h3>
 
 <strong>Tools & Technologies:</strong><br>
 Git, GitHub
 
-<br>
-
-<strong>Core Skills:</strong><br>
-—
-
 </td>
 </tr>
 </table>
-
 ## Projects
 
 ### 🤖 Machine Learning
