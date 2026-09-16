@@ -50,6 +50,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 ### Generative AI
 
 **Technologies:** Google Gemini
+
 **Skills:** Prompt Engineering
 
 ### MLOps
@@ -60,6 +61,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 </p>
 
 **Technologies:** MLflow · DagsHub · FastAPI
+
 **Skills:** CI/CD · Model Monitoring · Drift Detection
 
 ### Data Engineering & Cloud
@@ -69,6 +71,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 </p>
 
 **Technologies:** AWS S3 · AWS Lambda · Amazon Athena
+
 **Skills:** ETL
 
 ### Data Visualization & BI
