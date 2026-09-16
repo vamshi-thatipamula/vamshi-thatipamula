@@ -83,11 +83,9 @@ Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelli
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 
-DagsHub
-
 <br><br>
 <strong>Core Skills:</strong><br>
-CI/CD · Model Monitoring · Drift Detection
+DagsHub · CI/CD · Model Monitoring · Drift Detection
 
 </td>
 </tr>
