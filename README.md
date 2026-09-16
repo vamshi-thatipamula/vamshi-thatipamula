@@ -30,38 +30,52 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 
 ### Programming & Data Analysis
 
+Technologies:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+Skills: Python · SQL · Pandas · NumPy
+
 ### Machine Learning & Statistics
+
+Technologies:
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white)
 
-Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
+Skills: Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
 
 ### Generative AI
 
+Technologies:
+
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 
-Prompt Engineering
+Skills: Prompt Engineering
 
 ### MLOps
+
+Technologies: 
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-DagsHub · CI/CD · Model Monitoring · Drift Detection
+Skills: DagsHub · CI/CD · Model Monitoring · Drift Detection
 
 ### Data Engineering & Cloud
 
+Technologies:
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-AWS S3 · AWS Lambda · Amazon Athena · ETL
+Skills: AWS S3 · AWS Lambda · Amazon Athena · ETL
 
 ### Data Visualization & BI
+
+Technologies:
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
@@ -71,10 +85,14 @@ AWS S3 · AWS Lambda · Amazon Athena · ETL
 
 ### Databases
 
+Technologies:
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Development & Version Control
+
+Teechnologies:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
