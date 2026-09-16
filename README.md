@@ -1,6 +1,12 @@
-# Vamshi Krishna Thatipamula
+<h1 align="center">Vamshi Krishna Thatipamula</h1>
 
-### Data Professional | Data Analytics | Machine Learning | MLOps | Generative AI
+<p align="center">
+  <strong>Data Professional | Data Analytics | Machine Learning | MLOps | Generative AI</strong>
+</p>
+
+<p align="center">
+  Building data-driven solutions with Analytics, Machine Learning, MLOps & Generative AI
+</p>
 
 ## About Me
 
