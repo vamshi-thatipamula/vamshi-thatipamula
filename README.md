@@ -117,7 +117,7 @@ AWS S3 · AWS Lambda · Amazon Athena
 
 <br><br>
 <strong>Core Skills:</strong><br>
-ETL
+AWS S3 · AWS Lambda · Amazon Athena · ETL
 
 </td>
 </tr>
