@@ -26,82 +26,33 @@ My projects include Healthcare Premium Prediction, Credit Risk Modelling, Credit
 I enjoy building solutions that connect data, machine learning, and AI with real-world business problems—from exploratory analysis and statistical experimentation to predictive modelling, end-to-end MLOps solutions, and AI-powered applications.
 </p>
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
-### Programming & Data Analysis
+Programming & Data Analysis
+[ Python ] [ SQL ] [ Pandas ] [ NumPy ]
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
-</p>
+Machine Learning & Statistics
+[ Scikit-learn ] [ Statsmodels ] [ Feature Engineering ]
+[ Statistical Analysis ] [ A/B Testing ] [ Predictive Modelling ]
 
-**Skills:** Python · SQL · Pandas · NumPy
+Generative AI
+[ Google Gemini ] [ Prompt Engineering ]
 
-### Machine Learning & Statistics
+MLOps
+[ MLflow ] [ DagsHub ] [ FastAPI ] [ CI/CD ]
+[ Model Monitoring ] [ Drift Detection ]
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/>
-</p>
+Data Engineering & Cloud
+[ AWS S3 ] [ AWS Lambda ] [ Amazon Athena ] [ ETL ]
 
-**Skills:** Scikit-learn · Statsmodels · Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
+Data Visualization & BI
+[ Streamlit ] [ Plotly ] [ Tableau ] [ Matplotlib ] [ Seaborn ]
 
-### Generative AI
+Databases
+[ MySQL ] [ SQLite ]
 
-**Technologies:** Google Gemini
-
-**Skills:** Prompt Engineering
-
-### MLOps
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="40" title="MLflow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
-</p>
-
-**Technologies:** MLflow · DagsHub · FastAPI
-
-**Skills:** CI/CD · Model Monitoring · Drift Detection
-
-### Data Engineering & Cloud
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" title="AWS"/>
-</p>
-
-**Technologies:** AWS S3 · AWS Lambda · Amazon Athena
-
-**Skills:** ETL
-
-### Data Visualization & BI
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" title="Tableau"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
-</p>
-
-**Technologies:** Streamlit · Plotly · Tableau · Matplotlib · Seaborn
-
-### Databases
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-</p>
-
-**Technologies:** MySQL · SQLite
-
-### Development & Version Control
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-</p>
-
-**Technologies:** Git · GitHub
+Development & Version Control
+[ Git ] [ GitHub ]
 
 
 ## Projects
