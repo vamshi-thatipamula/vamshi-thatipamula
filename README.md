@@ -34,7 +34,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 
 <h3>Programming & Data Analysis</h3>
 
-<strong>Tools & Technologies</strong>
+<strong>Tools & Technologies:</strong><br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
@@ -45,79 +45,9 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 
 <td width="50%" valign="top">
 
-<h3>Machine Learning & Statistics</h3>
-
-<strong>Tools & Technologies</strong>
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white">
-
-<br><br>
-
-<strong>Core Skills</strong>
-
-Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>Generative AI</h3>
-
-<strong>Tools & Technologies</strong>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white">
-
-<br><br>
-
-<strong>Core Skills</strong>
-
-Prompt Engineering
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>MLOps</h3>
-
-<strong>Tools & Technologies</strong>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-
-<br><br>
-
-<strong>Core Skills</strong>
-
-DagsHub · CI/CD · Model Monitoring · Drift Detection
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>Data Engineering & Cloud</h3>
-
-<strong>Tools & Technologies</strong>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
-
-<br><br>
-
-<strong>Core Skills</strong>
-
-AWS S3 · AWS Lambda · Amazon Athena · ETL
-
-</td>
-
-<td width="50%" valign="top">
-
 <h3>Data Visualization & BI</h3>
 
-<strong>Tools & Technologies</strong>
+<strong>Tools & Technologies:</strong><br><br>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white">
@@ -131,9 +61,75 @@ AWS S3 · AWS Lambda · Amazon Athena · ETL
 <tr>
 <td width="50%" valign="top">
 
+<h3>Machine Learning & Statistics</h3>
+
+<strong>Tools & Technologies:</strong><br><br>
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat&logo=python&logoColor=white">
+
+<br><br>
+<strong>Core Skills:</strong><br>
+Feature Engineering · Statistical Analysis · A/B Testing · Predictive Modelling · Model Evaluation
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>MLOps</h3>
+
+<strong>Tools & Technologies:</strong><br><br>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+
+DagsHub
+
+<br><br>
+<strong>Core Skills:</strong><br>
+CI/CD · Model Monitoring · Drift Detection
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>Generative AI</h3>
+
+<strong>Tools & Technologies:</strong><br><br>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white">
+
+<br><br>
+<strong>Core Skills:</strong><br>
+Prompt Engineering
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Data Engineering & Cloud</h3>
+
+<strong>Tools & Technologies:</strong><br><br>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+
+AWS S3 · AWS Lambda · Amazon Athena
+
+<br><br>
+<strong>Core Skills:</strong><br>
+ETL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 <h3>Databases</h3>
 
-<strong>Tools & Technologies</strong>
+<strong>Tools & Technologies:</strong><br><br>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
@@ -144,7 +140,7 @@ AWS S3 · AWS Lambda · Amazon Athena · ETL
 
 <h3>Development & Version Control</h3>
 
-<strong>Tools & Technologies</strong>
+<strong>Tools & Technologies:</strong><br><br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
