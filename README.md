@@ -34,7 +34,7 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 
 <h3>Programming & Data Analysis</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 Python, SQL, Pandas, NumPy
 
 </td>
@@ -43,7 +43,7 @@ Python, SQL, Pandas, NumPy
 
 <h3>Data Visualization & BI</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 Streamlit, Plotly, Tableau, Matplotlib, Seaborn
 
 </td>
@@ -54,10 +54,10 @@ Streamlit, Plotly, Tableau, Matplotlib, Seaborn
 
 <h3>Machine Learning & Statistics</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 Scikit-learn, Statsmodels
 <p style="margin: 4px 0 0 0;">
-<strong><font color="#8E44AD">Core Skills:</font></strong><br>
+<strong>Core Skills:</strong><br>
 Feature Engineering, Statistical Analysis, Predictive Modelling, Model Evaluation, A/B Testing
 </p>
 
@@ -67,10 +67,10 @@ Feature Engineering, Statistical Analysis, Predictive Modelling, Model Evaluatio
 
 <h3>MLOps</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 MLflow, DagsHub, FastAPI
 <p style="margin: 4px 0 0 0;">
-<strong><font color="#8E44AD">Core Skills:</font></strong><br>
+<strong>Core Skills:</strong><br>
 CI/CD, Model Monitoring, Drift Detection
 </p>
 
@@ -82,10 +82,10 @@ CI/CD, Model Monitoring, Drift Detection
 
 <h3>Generative AI</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 Google Gemini
 <p style="margin: 4px 0 0 0;">
-<strong><font color="#8E44AD">Core Skills:</font></strong><br>
+<strong>Core Skills:</strong><br>
 Prompt Engineering
 </p>
 
@@ -95,10 +95,10 @@ Prompt Engineering
 
 <h3>Data Engineering & Cloud</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 AWS S3, AWS Lambda, Amazon Athena
 <p style="margin: 4px 0 0 0;">
-<strong><font color="#8E44AD">Core Skills:</font></strong><br>
+<strong>Core Skills:</strong><br>
 ETL
 </p>
 
@@ -110,7 +110,7 @@ ETL
 
 <h3>Databases</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 MySQL, SQLite
 
 </td>
@@ -119,7 +119,7 @@ MySQL, SQLite
 
 <h3>Development & Version Control</h3>
 
-<strong><font color="#2F80ED">Tools & Technologies:</font></strong><br>
+<strong>Tools & Technologies:</strong><br>
 Git, GitHub
 
 </td>
