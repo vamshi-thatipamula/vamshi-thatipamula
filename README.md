@@ -195,9 +195,20 @@ Exploratory data analysis of the hospitality domain to identify revenue leakage,
 Full-stack expense management application built with Python, FastAPI, Streamlit, MySQL, and data visualization.
 </p>
 
-## Let's Connect
+<h2>🤝 Let's Connect</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/vk-thatipamula/)
-- [GitHub](https://github.com/vamshi-thatipamula)
+<p>
+I'm always open to connecting with data professionals, recruiters, and people working on interesting data and AI projects.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/vk-thatipamula/">
+  <strong>LinkedIn</strong>
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/vamshi-thatipamula">
+  <strong>GitHub</strong>
+</a>
+</p>
 
 
