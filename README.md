@@ -8,15 +8,23 @@
   Building data-driven solutions with Analytics, Machine Learning, MLOps & Generative AI
 </p>
 
-## About Me
+<h2>👨‍💻 About Me</h2>
 
+<p>
 I am a data professional with 3.5+ years of experience in IT consulting and analytics, focused on solving business problems through data-driven approaches and translating complex requirements into practical analytical solutions.
+</p>
 
+<p>
 Alongside my professional experience, I have developed hands-on expertise in Data Analytics, Machine Learning, Statistical Analysis, MLOps, and Generative AI by building end-to-end projects addressing practical business challenges.
+</p>
 
+<p>
 My projects include Healthcare Premium Prediction, Credit Risk Modelling, Credit Risk MLOps, Generative AI-powered Customer Feedback Analysis, Data Engineering, SQL Analytics, and Business Intelligence.
+</p>
 
+<p>
 I enjoy building solutions that connect data, machine learning, and AI with real-world business problems—from exploratory analysis and statistical experimentation to predictive modelling, end-to-end MLOps solutions, and AI-powered applications.
+</p>
 
 ## Technical Skills
 
