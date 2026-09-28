@@ -152,7 +152,7 @@ End-to-end MLOps solution covering experiment tracking, model serving, deploymen
 <h3>Generative AI</h3>
 
 <p>
-<strong><a href="https://github.com/vamshi-thatipamula/Gen_AI_Customer_Feedback_Analyzer">Gen AI Customer Feedback Analyzer</a></strong><br>
+<strong><a href="https://github.com/vamshi-thatipamula/Gen_AI_Customer_Feedback_Analyzer">Customer Feedback Analyzer (Gen AI)</a></strong><br>
 Generative AI application using Google Gemini to analyze customer feedback, classify sentiment, identify themes, and generate AI-powered insights.
 </p>
 
@@ -160,7 +160,7 @@ Generative AI application using Google Gemini to analyze customer feedback, clas
 <h3>Data Engineering</h3>
 
 <p>
-<strong><a href="https://github.com/vamshi-thatipamula/CarePlus_System_Support_Ticket_ETL">CarePlus System Support Ticket ETL</a></strong><br>
+<strong><a href="https://github.com/vamshi-thatipamula/CarePlus_System_Support_Ticket_ETL">CarePlus Support Ticket ETL Pipeline</a></strong><br>
 End-to-end ETL pipeline integrating support tickets and application logs using AWS services, SQL analytics, and Streamlit dashboards.
 </p>
 
@@ -178,12 +178,12 @@ SQL-based analysis of movie industry trends, actor participation, financial perf
 </p>
 
 <p>
-<strong><a href="https://github.com/vamshi-thatipamula/Tableau_sales_insights_data_analysis_project">Sales Insights Data Analysis</a></strong><br>
+<strong><a href="https://github.com/vamshi-thatipamula/Tableau_sales_insights_data_analysis_project">Sales Insights Data Analysis (Tableau)</a></strong><br>
 Sales and market performance analysis using SQL and Tableau to uncover revenue trends, profitability, market contribution, and growth opportunities.
 </p>
 
 <p>
-<strong><a href="https://github.com/vamshi-thatipamula/Python_Hospitality_Domain_Revenue_Analytics_EDA">Hospitality Domain Revenue Analytics EDA</a></strong><br>
+<strong><a href="https://github.com/vamshi-thatipamula/Python_Hospitality_Domain_Revenue_Analytics_EDA">Exploratory Data Analysis in Hospitality Domain</a></strong><br>
 Exploratory data analysis of the hospitality domain to identify revenue leakage, city and room-category performance gaps, and booking patterns influencing cancellation risk.
 </p>
 
