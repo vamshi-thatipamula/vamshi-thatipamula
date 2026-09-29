@@ -1,30 +1,33 @@
+
 <h1 align="center">Vamshi Krishna Thatipamula</h1>
 
 <p align="center">
-  <strong>Data Professional | Data Analytics | Machine Learning | MLOps | Generative AI</strong>
+  <strong>Data Analyst | Data Scientist</strong>
 </p>
 
 <p align="center">
-  Building data-driven solutions with Analytics, Machine Learning, MLOps & Generative AI
+  Data Analytics • Machine Learning • MLOps • Generative AI
 </p>
+
+<p align="center">
+  Transforming complex data into actionable insights and building end-to-end data science solutions.
+</p>
+
 
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am a data professional with 3.5+ years of experience in IT consulting and analytics, focused on solving business problems through data-driven approaches and translating complex requirements into practical analytical solutions.
+I am a data professional with nearly four years of experience in IT consulting and analytics and a master's degree in Big Data & Business Analytics. At A2MAC1, I delivered quantitative analyses of complex software projects, applied multidimensional modelling to identify key cost and productivity drivers, and translated findings into actionable recommendations for clients. I also led projects, coordinated internal team members and collaborated with clients and stakeholders.
 </p>
 
 <p>
-Alongside my professional experience, I have developed hands-on expertise in Data Analytics, Machine Learning, Statistical Analysis, MLOps, and Generative AI by building end-to-end projects addressing practical business challenges.
+Alongside my professional experience, I have strengthened my skills in Python, SQL, statistical analysis and machine learning through end-to-end portfolio projects involving predictive model development, A/B testing, cloud-based ETL pipelines, interactive dashboards, MLOps and Generative AI.
 </p>
 
 <p>
-My projects include Healthcare Premium Prediction, Credit Risk Modelling, Credit Risk MLOps, Generative AI-powered Customer Feedback Analysis, Data Engineering, SQL Analytics, and Business Intelligence.
+I am passionate about applying data analytics and machine learning to real-world business challenges, from uncovering meaningful insights to developing predictive solutions and deploying data-driven applications.
 </p>
 
-<p>
-I enjoy building solutions that connect data, machine learning, and AI with real-world business problems—from exploratory analysis and statistical experimentation to predictive modelling, end-to-end MLOps solutions, and AI-powered applications.
-</p>
 
 <h2>🛠️ Technical Skills</h2>
 
@@ -38,13 +41,12 @@ I enjoy building solutions that connect data, machine learning, and AI with real
 Python, SQL, Pandas, NumPy
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>Data Visualization & BI</h3>
+<h3>Data Visualisation & Business Intelligence</h3>
 
 <strong>Tools & Technologies:</strong><br>
-Streamlit, Plotly, Tableau, Matplotlib, Seaborn
+Tableau, Streamlit, Plotly, Matplotlib, Seaborn
 
 </td>
 </tr>
@@ -56,22 +58,24 @@ Streamlit, Plotly, Tableau, Matplotlib, Seaborn
 
 <strong>Tools & Technologies:</strong><br>
 Scikit-learn, Statsmodels
-<p style="margin: 4px 0 0 0;">
+
+<p>
 <strong>Core Skills:</strong><br>
-Feature Engineering, Statistical Analysis, Predictive Modelling, Model Evaluation, A/B Testing
+Exploratory Data Analysis, Feature Engineering, Statistical Analysis,
+Predictive Modelling, Model Evaluation, A/B Testing
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>MLOps</h3>
+<h3>MLOps & Model Deployment</h3>
 
 <strong>Tools & Technologies:</strong><br>
-MLflow, DagsHub, FastAPI
-<p style="margin: 4px 0 0 0;">
+MLflow, DagsHub, FastAPI, GitHub Actions
+
+<p>
 <strong>Core Skills:</strong><br>
-CI/CD, Model Monitoring, Drift Detection
+CI/CD, Model Deployment, Model Monitoring, Drift Detection
 </p>
 
 </td>
@@ -84,22 +88,23 @@ CI/CD, Model Monitoring, Drift Detection
 
 <strong>Tools & Technologies:</strong><br>
 Google Gemini
-<p style="margin: 4px 0 0 0;">
+
+<p>
 <strong>Core Skills:</strong><br>
-Prompt Engineering
+Prompt Engineering, AI-Powered Text Analysis
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>Data Engineering & Cloud</h3>
+<h3>Cloud & Data Engineering</h3>
 
 <strong>Tools & Technologies:</strong><br>
 AWS S3, AWS Lambda, Amazon Athena
-<p style="margin: 4px 0 0 0;">
+
+<p>
 <strong>Core Skills:</strong><br>
-ETL
+ETL Pipelines, Data Transformation, Incremental Data Processing
 </p>
 
 </td>
@@ -114,7 +119,6 @@ ETL
 MySQL, SQLite
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>Development & Version Control</h3>
@@ -126,79 +130,76 @@ Git, GitHub
 </tr>
 </table>
 
+
 <h2>📂 Projects</h2>
 
 <h3>Machine Learning</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Credit_Risk_Modelling_System">Credit Risk Modelling System</a></strong><br>
-Machine learning-based credit risk classification system focused on customer risk assessment and model evaluation.
+Developed and evaluated machine learning models for credit risk classification, focusing on customer default prediction and model performance.
 </p>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Healthcare_Premium_Prediction_System">Healthcare Premium Prediction System</a></strong><br>
-Machine learning regression system for predicting healthcare insurance premiums using feature engineering and model analysis.
+Developed age-specific regression models using 50,000 records to predict healthcare insurance premiums, achieving an R² of 0.9883 for younger customers.
 </p>
-
 
 <h3>MLOps</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/End_to_End_Credit_Risk_MLOps_System">End-to-End Credit Risk MLOps System</a></strong><br>
-End-to-end MLOps solution covering experiment tracking, model serving, deployment, CI/CD, drift detection, and model monitoring.
+Built an end-to-end credit risk prediction system using 50,000 records, achieving 0.98 ROC-AUC and 94% default recall, with MLflow experiment tracking, FastAPI deployment, CI/CD and drift monitoring.
 </p>
-
 
 <h3>Generative AI</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Gen_AI_Customer_Feedback_Analyzer">Customer Feedback Analyzer (Gen AI)</a></strong><br>
-Generative AI application using Google Gemini to analyze customer feedback, classify sentiment, identify themes, and generate AI-powered insights.
+Built a Generative AI application using Google Gemini, FastAPI, SQLite and Streamlit to analyse customer feedback, classify sentiment, identify themes and generate actionable insights.
 </p>
-
 
 <h3>Data Engineering</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/CarePlus_System_Support_Ticket_ETL">CarePlus Support Ticket ETL Pipeline</a></strong><br>
-End-to-end ETL pipeline integrating support tickets and application logs using AWS services, SQL analytics, and Streamlit dashboards.
+Developed an AWS-based incremental ETL pipeline integrating 607 support tickets and 2,245 application logs, with Bronze, Silver and Gold data layers and interactive operational dashboards.
 </p>
 
-
-<h3>Data Analytics & Visualization</h3>
+<h3>Data Analytics & Visualisation</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/AtliQo_Bank_Credit_Card_Strategy_AB_Testing">AtliQo Bank Credit Card Strategy: Target Market Analysis & A/B Testing</a></strong><br>
-Customer and transaction analysis combined with A/B testing to identify a high-potential target segment and evaluate credit card effectiveness.
+Analysed over 500,000 records and conducted statistical A/B testing, identifying a 6.7% higher transaction value in the test group for the 18–25 age segment (p &lt; 0.05).
 </p>
 
 <p>
-<strong><a href="https://github.com/vamshi-thatipamula/Data_Analysis_using_SQL">Data Analysis using SQL</a></strong><br>
-SQL-based analysis of movie industry trends, actor participation, financial performance, and profitability using advanced analytical queries.
+<strong><a href="https://github.com/vamshi-thatipamula/Data_Analysis_using_SQL">Data Analysis Using SQL</a></strong><br>
+Analysed movie industry performance using MySQL, applying joins, CTEs and window functions to investigate revenue, profitability and industry trends.
 </p>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Tableau_sales_insights_data_analysis_project">Sales Insights Data Analysis (Tableau)</a></strong><br>
-Sales and market performance analysis using SQL and Tableau to uncover revenue trends, profitability, market contribution, and growth opportunities.
+Analysed over 150,000 sales transactions using SQL and Tableau, developing interactive dashboards for revenue analysis, profitability and sales performance.
 </p>
 
 <p>
-<strong><a href="https://github.com/vamshi-thatipamula/Python_Hospitality_Domain_Revenue_Analytics_EDA">Exploratory Data Analysis in Hospitality Domain</a></strong><br>
-Exploratory data analysis of the hospitality domain to identify revenue leakage, city and room-category performance gaps, and booking patterns influencing cancellation risk.
+<strong><a href="https://github.com/vamshi-thatipamula/Python_Hospitality_Domain_Revenue_Analytics_EDA">Exploratory Data Analysis in the Hospitality Domain</a></strong><br>
+Analysed over 134,000 booking records using Python and Pandas to investigate revenue leakage, booking cancellations and hospitality performance indicators.
 </p>
-
 
 <h3>Python Applications</h3>
 
 <p>
 <strong><a href="https://github.com/vamshi-thatipamula/Python_Expense_Tracking_System">Expense Management System</a></strong><br>
-Full-stack expense management application built with Python, FastAPI, Streamlit, MySQL, and data visualization.
+Developed a full-stack expense management application using FastAPI, Streamlit and MySQL, with interactive Plotly dashboards for expense analysis.
 </p>
+
 
 <h2>🤝 Let's Connect</h2>
 
 <p>
-I'm always open to connecting with data professionals, recruiters, and people working on interesting data and AI projects.
+I'm open to Data Analyst and Data Scientist opportunities, as well as connecting with professionals working in data analytics, machine learning and AI.
 </p>
 
 <p>
