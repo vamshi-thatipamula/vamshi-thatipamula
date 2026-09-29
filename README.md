@@ -14,19 +14,18 @@
 </p>
 
 
-<h2>👨‍💻 About Me</h2>
 
-<p>
-I am a data professional with nearly four years of experience in IT consulting and analytics and a master's degree in Big Data & Business Analytics. At A2MAC1, I delivered quantitative analyses of complex software projects, applied multidimensional modelling to identify key cost and productivity drivers, and translated findings into actionable recommendations for clients. I also led projects, coordinated internal team members and collaborated with clients and stakeholders.
-</p>
+## 👨‍💻 About Me
 
-<p>
-Alongside my professional experience, I have strengthened my skills in Python, SQL, statistical analysis and machine learning through end-to-end portfolio projects involving predictive model development, A/B testing, cloud-based ETL pipelines, interactive dashboards, MLOps and Generative AI.
-</p>
+I'm a data science enthusiast with 3 years and 11 months of professional experience in IT consulting and quantitative analytics, complemented by hands-on projects in Data Science, Machine Learning, and Generative AI.
 
-<p>
-I am passionate about applying data analytics and machine learning to real-world business challenges, from uncovering meaningful insights to developing predictive solutions and deploying data-driven applications.
-</p>
+🔭 **Currently working on:** End-to-end Data Science and Machine Learning projects, from data preprocessing and exploratory data analysis to model development and deployment.
+
+🌱 **Currently exploring:** Advanced Machine Learning, Deep Learning, MLOps, and Generative AI.
+
+💡 **Areas of interest:** Predictive Analytics, Statistical Modeling, Machine Learning, and AI-driven solutions.
+
+🎯 **My goal:** Transform complex datasets into actionable insights and build scalable, data-driven solutions.
 
 
 <h2>🛠️ Technical Skills</h2>
