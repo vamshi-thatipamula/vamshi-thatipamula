@@ -13,22 +13,19 @@
   Transforming complex data into actionable insights and building end-to-end data science solutions.
 </p>
 
+
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am a data professional with 3 years and 11 months of experience in IT consulting and quantitative analytics, specializing in data-driven problem-solving, analytical modelling, and transforming complex business requirements into actionable insights.
+I am a data professional with 3 years and 11 months of experience in IT consulting and quantitative analytics, specialising in data-driven problem-solving, analytical modelling and transforming complex business requirements into actionable insights.
 </p>
 
 <p>
-Alongside my professional experience, I have developed practical skills in Data Science, with a focus on Machine Learning, Statistical Analysis, MLOps and Generative AI, through hands-on, end-to-end projects addressing real-world business challenges.
+Alongside my professional experience, I have developed practical skills in data science through hands-on, end-to-end projects involving machine learning, statistical analysis, MLOps, Generative AI, cloud-based data engineering and business intelligence.
 </p>
 
 <p>
-My portfolio showcases projects in Healthcare Premium Prediction, Credit Risk Modelling, Credit Risk MLOps, Generative AI-powered Customer Feedback Analysis, Data Engineering, SQL Analytics, and Business Intelligence.
-</p>
-
-<p>
-I am passionate about the entire Data Science lifecycle, from data exploration, statistical analysis, and feature engineering to predictive modelling, model deployment, MLOps, and building AI-powered applications.
+I am passionate about applying data science to practical business challenges, from data exploration, statistical experimentation and feature engineering to predictive modelling, model deployment and AI-powered applications.
 </p>
 
 <h2>🛠️ Technical Skills</h2>
