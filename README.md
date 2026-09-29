@@ -20,7 +20,7 @@ I am a data professional with 3 years and 11 months of experience in IT consulti
 </p>
 
 <p>
-Alongside my professional experience, I have developed practical skills in Data Science, Statistical Analysis, Machine Learning, MLOps, and Generative AI through hands-on, end-to-end projects addressing real-world business challenges.
+Alongside my professional experience, I have developed practical skills in Data Science, with a focus on Machine Learning, Statistical Analysis, MLOps and Generative AI, through hands-on, end-to-end projects addressing real-world business challenges.
 </p>
 
 <p>
