@@ -18,7 +18,7 @@ This portfolio brings together my end-to-end data science projects, built with P
 | Project | Result | Links |
 |---|---|---|
 | **Credit Risk Modelling System** | Selected the model from nine experiments that exceeded the 90% recall target: **94% default recall**, 0.98 ROC-AUC on 50,000 records | [Code](https://github.com/vamshi-thatipamula/Credit_Risk_Modelling_System) · [Live Demo](https://credit-risk-modelling-system.streamlit.app/) |
-| **End-to-End Credit Risk MLOps System** | Deployed the credit risk model as a **FastAPI service on Render** with MLflow tracking and registry, GitHub Actions CI/CD and PSI/CSI drift alerts | [Code](https://github.com/vamshi-thatipamula/End_to_End_Credit_Risk_MLOps_System) · [Live Demo](https://end-to-end-credit-risk-mlops-system.onrender.com/) |
+| **End-to-End Credit Risk MLOps System** | Deployed the credit risk model as a **FastAPI service on Render** with MLflow tracking and registry, GitHub Actions CI/CD and PSI/CSI drift monitoring | [Code](https://github.com/vamshi-thatipamula/End_to_End_Credit_Risk_MLOps_System) · [Live Demo](https://end-to-end-credit-risk-mlops-system.onrender.com/) |
 | **Healthcare Premium Prediction System** | Age-group models cut young customers with errors above ±10% from **73.3% to 2.1%** (R² 0.9883) | [Code](https://github.com/vamshi-thatipamula/Healthcare_Premium_Prediction_System) · [Live Demo](https://healthcare-premium-prediction-system.streamlit.app/) |
 | **AtliQo Bank: Credit Card Strategy & A/B Testing** | Identified an underserved 18–25 segment in 500,000+ records; A/B test showed **6.7% higher transaction value** in the test group (p < 0.05) | [Code](https://github.com/vamshi-thatipamula/AtliQo_Bank_Credit_Card_Strategy_AB_Testing) |
 
