@@ -6,14 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/MLOps-7C3AED?style=for-the-badge" alt="MLOps">
-  <img src="https://img.shields.io/badge/Data_Analytics-0D9488?style=for-the-badge" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/Data_Engineering-F97316?style=for-the-badge" alt="Data Engineering">
-  <img src="https://img.shields.io/badge/Generative_AI-DB2777?style=for-the-badge" alt="Generative AI">
-</p>
-
-<p align="center">
   🔵 Machine Learning &nbsp;·&nbsp; 🟣 MLOps &nbsp;·&nbsp; 🟢 Data Analytics &nbsp;·&nbsp; 🟠 Data Engineering &nbsp;·&nbsp; 🔴 Generative AI
 </p>
 
