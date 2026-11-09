@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vk-thatipamula/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  🔵 Machine Learning &nbsp;·&nbsp; 🟣 MLOps &nbsp;·&nbsp; 🟢 Data Analytics &nbsp;·&nbsp; 🟠 Data Engineering &nbsp;·&nbsp; 🔴 Generative AI
 </p>
 
 ---
