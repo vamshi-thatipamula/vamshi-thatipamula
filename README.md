@@ -33,6 +33,7 @@ This portfolio brings together my end-to-end data science projects, built with P
 | **End-to-End Credit Risk MLOps System** | ![MLOps](https://img.shields.io/badge/MLOps-7C3AED?style=flat-square) | Deployed the credit risk model as a **FastAPI service on Render** with MLflow tracking and registry, GitHub Actions CI/CD and PSI/CSI drift monitoring | [Code](https://github.com/vamshi-thatipamula/End_to_End_Credit_Risk_MLOps_System) · [Live Demo](https://end-to-end-credit-risk-mlops-system.onrender.com/) |
 | **Healthcare Premium Prediction System** | ![ML](https://img.shields.io/badge/ML-2563EB?style=flat-square) | Age-group models cut young customers with errors above ±10% from **73.3% to 2.1%** (R² 0.9883) | [Code](https://github.com/vamshi-thatipamula/Healthcare_Premium_Prediction_System) · [Live Demo](https://healthcare-premium-prediction-system.streamlit.app/) |
 | **AtliQo Bank: Credit Card Strategy & A/B Testing** | ![Analytics](https://img.shields.io/badge/Analytics-0D9488?style=flat-square) | Identified an underserved 18–25 segment in 500,000+ records; A/B test showed **6.7% higher transaction value** in the test group (p < 0.05) | [Code](https://github.com/vamshi-thatipamula/AtliQo_Bank_Credit_Card_Strategy_AB_Testing) |
+| **Financial & Supply Chain Analytics Using SQL** | ![Analytics](https://img.shields.io/badge/Analytics-0D9488?style=flat-square) | Built a validated P&L model on **1.4M sales records**; found under-forecasting put an estimated **USD 21.8M** of FY2021 margin at risk, above the USD 12.6M cost of excess stock | [Code](https://github.com/vamshi-thatipamula/financial-and-supply-chain-analytics-using-SQL) |
 | **Post-Acquisition Data Integration on Databricks** | ![Data Eng](https://img.shields.io/badge/Data_Eng-F97316?style=flat-square) | Merged **62K raw records** from an acquired company into the parent's **101K-row** Databricks table; the dashboard showed it drove **46% of units but only 3% of revenue** | [Code](https://github.com/vamshi-thatipamula/post-acquisition-data-integration) |
 
 ---
@@ -59,8 +60,8 @@ This portfolio brings together my end-to-end data science projects, built with P
 
 | Area | Tools & Skills |
 |---|---|
-| **Programming & Databases** | Python, SQL, PySpark, MySQL, SQLite |
-| **Data Analysis & Statistics** | Pandas, NumPy, SciPy, Statsmodels, EDA, Hypothesis Testing, A/B Testing |
+| **Programming & Databases** | Python, SQL, PySpark, MySQL, SQLite, SQLAlchemy |
+| **Data Analysis & Statistics** | Pandas, NumPy, SciPy, Statsmodels, EDA, Hypothesis Testing, A/B Testing, Financial Analysis, Forecast Accuracy Analysis |
 | **Machine Learning** | Scikit-learn, Regression, Classification, Feature Engineering, Optuna, Model Evaluation |
 | **MLOps & Deployment** | MLflow, DagsHub, FastAPI, Streamlit, GitHub Actions CI/CD, Drift Monitoring |
 | **Data Engineering & Cloud** | Databricks, Delta Lake, Unity Catalog, Lakeflow Jobs, AWS S3, AWS IAM, AWS Lambda, Amazon Athena, ETL Pipelines |
@@ -74,5 +75,4 @@ This portfolio brings together my end-to-end data science projects, built with P
 Questions about a project, or interested in the code? Feel free to reach out.
 
 <a href="https://www.linkedin.com/in/vk-thatipamula/"><img src="https://img.shields.io/badge/LinkedIn-Vamshi_Krishna_Thatipamula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 
